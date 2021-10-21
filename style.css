@@ -80,7 +80,7 @@ p{
 }
 #header .header {
     min-height: 8vh;
-    background-color: rgba(31, 30, 30, .24);
+    background-color: #29a2f2;
     transition: .3s ease background-color;
 }
 #header .nav-bar {
@@ -204,7 +204,7 @@ p{
 * { color:#E7DCC5; text-decoration: none;}
 
 #main{
-    background-color: #7A6C5D;
+    background-color: #0388fc;
     /*background-image: url(bg6.jpg);*/
     background-size: cover;
     background-position: top center;
@@ -267,7 +267,7 @@ p{
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-color: #709799;
+    background-color: #74787d;
     background-size: cover;
     margin: 10px 5%;
     position: relative;
@@ -322,7 +322,7 @@ p{
     flex-direction: column;
 }
 #projects .project-item {
-    background-color: #E7DCC5 ;
+    background-color: #74787d ;
     display: flex;
     align-items: center;
     justify-content: center;
