@@ -2139,10 +2139,34 @@ input, select, textarea {
 			max-width: 30%;
 		}
 
-		.image.left.aboutme {
-			max-height: 30%;
+		.image.left.aboutme img {
 			margin-top: 1em;
+			height: 100%;
 		}
+
+		/* @media screen and (max-width: 980px) {
+
+			.image.left.aboutme img {
+				height: 100%;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			.image.left.aboutme img{
+				height: 75%;
+			}
+
+		}
+
+		@media screen and (max-width: 480px) {
+
+			.image.left.aboutme img{
+				height: 50%;
+			}
+
+		} */
 
 			.image.left img, .image.right img {
 				width: 100%;
