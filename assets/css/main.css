@@ -2121,6 +2121,13 @@ input, select, textarea {
 			float: left;
 			margin: 2em 3em 2em 0;
 			top: 0.25em;
+			max-width: 30%;
+		}
+
+		.image.left.crestron {
+			float: left;
+			margin: -4em 3em 0 0;
+			top: 0.25em;
 		}
 
 		.image.right {
