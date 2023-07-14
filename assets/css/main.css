@@ -2363,6 +2363,10 @@ input, select, textarea {
 		font-size: 1.8em;
 	}
 
+	.icons.links.github {
+		font-size: 3em;
+	}
+
 	.icons a:hover {
 		color: transparent;
 		-webkit-text-stroke-width: 1px;
