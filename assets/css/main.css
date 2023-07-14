@@ -2359,7 +2359,7 @@ input, select, textarea {
 	@media screen and (max-width: 980px) {
 
 		.icons.header {
-			font-size: 2.5em;
+			font-size: 2.25em;
 		}
 
 	}
@@ -2367,7 +2367,7 @@ input, select, textarea {
 	@media screen and (max-width: 736px) {
 
 		.icons.header {
-			font-size: 2em;
+			font-size: 1.75em;
 		}
 
 	}
@@ -2376,7 +2376,7 @@ input, select, textarea {
 	@media screen and (max-width: 480px) {
 
 		.icons.header {
-			font-size: 1.5em;
+			font-size: 1.25em;
 		}
 
 	}
@@ -2806,6 +2806,7 @@ input, select, textarea {
 			.spotlight .image img {
 				border-radius: 0;
 				width: 75%;
+				margin-top: 1em;
 			}
 
 		.spotlight .content {
